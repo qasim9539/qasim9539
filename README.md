@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGFC2STrW35AA/profile-displaybackgroundimage-shrink_350_1400/B4DZTlUu9uG4AY-/0/1739014287390?e=1744243200&v=beta&t=pNGf_Xb_a3sHHomRG-6dEevKO9cZGCxRK5coXWXDnKI)
 <h1 align="center">Hi 👋, I'm Qasim Gardezi</h1>
 <h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
