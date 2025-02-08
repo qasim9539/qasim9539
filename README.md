@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on [Portfolio Website](qasimgardezi.netlify.app)
+- 🔭 I’m currently working on [Ecommerce Website](https://qasimtech.netlify.app)]
 
 - 🌱 I’m currently learning **DSA in Cpp**
 
-- 👨‍💻 All of my projects are available at [qasimgardezi.netlify.app](qasimgardezi.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio Website](qasimgardezi.netlify.app)
 
 - 💬 Ask me about **MERN**
 
